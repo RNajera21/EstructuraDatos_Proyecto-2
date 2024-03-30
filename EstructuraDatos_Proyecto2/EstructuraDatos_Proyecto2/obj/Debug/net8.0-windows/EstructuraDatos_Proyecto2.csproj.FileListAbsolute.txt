@@ -1,0 +1,16 @@
+C:\Users\roger\source\repos\EstructuraDatos_Proyecto2\EstructuraDatos_Proyecto2\bin\Debug\net8.0-windows\EstructuraDatos_Proyecto2.exe
+C:\Users\roger\source\repos\EstructuraDatos_Proyecto2\EstructuraDatos_Proyecto2\bin\Debug\net8.0-windows\EstructuraDatos_Proyecto2.deps.json
+C:\Users\roger\source\repos\EstructuraDatos_Proyecto2\EstructuraDatos_Proyecto2\bin\Debug\net8.0-windows\EstructuraDatos_Proyecto2.runtimeconfig.json
+C:\Users\roger\source\repos\EstructuraDatos_Proyecto2\EstructuraDatos_Proyecto2\bin\Debug\net8.0-windows\EstructuraDatos_Proyecto2.dll
+C:\Users\roger\source\repos\EstructuraDatos_Proyecto2\EstructuraDatos_Proyecto2\bin\Debug\net8.0-windows\EstructuraDatos_Proyecto2.pdb
+C:\Users\roger\source\repos\EstructuraDatos_Proyecto2\EstructuraDatos_Proyecto2\obj\Debug\net8.0-windows\EstructuraDatos_Proyecto2.Form1.resources
+C:\Users\roger\source\repos\EstructuraDatos_Proyecto2\EstructuraDatos_Proyecto2\obj\Debug\net8.0-windows\EstructuraDatos_Proyecto2.csproj.GenerateResource.cache
+C:\Users\roger\source\repos\EstructuraDatos_Proyecto2\EstructuraDatos_Proyecto2\obj\Debug\net8.0-windows\EstructuraDatos_Proyecto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\source\repos\EstructuraDatos_Proyecto2\EstructuraDatos_Proyecto2\obj\Debug\net8.0-windows\EstructuraDatos_Proyecto2.AssemblyInfoInputs.cache
+C:\Users\roger\source\repos\EstructuraDatos_Proyecto2\EstructuraDatos_Proyecto2\obj\Debug\net8.0-windows\EstructuraDatos_Proyecto2.AssemblyInfo.cs
+C:\Users\roger\source\repos\EstructuraDatos_Proyecto2\EstructuraDatos_Proyecto2\obj\Debug\net8.0-windows\EstructuraDatos_Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\roger\source\repos\EstructuraDatos_Proyecto2\EstructuraDatos_Proyecto2\obj\Debug\net8.0-windows\EstructuraDatos_Proyecto2.dll
+C:\Users\roger\source\repos\EstructuraDatos_Proyecto2\EstructuraDatos_Proyecto2\obj\Debug\net8.0-windows\refint\EstructuraDatos_Proyecto2.dll
+C:\Users\roger\source\repos\EstructuraDatos_Proyecto2\EstructuraDatos_Proyecto2\obj\Debug\net8.0-windows\EstructuraDatos_Proyecto2.pdb
+C:\Users\roger\source\repos\EstructuraDatos_Proyecto2\EstructuraDatos_Proyecto2\obj\Debug\net8.0-windows\EstructuraDatos_Proyecto2.genruntimeconfig.cache
+C:\Users\roger\source\repos\EstructuraDatos_Proyecto2\EstructuraDatos_Proyecto2\obj\Debug\net8.0-windows\ref\EstructuraDatos_Proyecto2.dll
